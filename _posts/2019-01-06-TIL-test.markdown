@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "첫번째 테스트 게시물"
+title:  "190106_TIL"
 date:   2019-01-06 22:50:00 +0900
-categories: science
-author: "Nerd Kim"
+categories: TIL
 ---
 this is my first post
