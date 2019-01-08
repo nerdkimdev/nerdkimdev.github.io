@@ -525,6 +525,11 @@ pre {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
 
+  hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
   h1,h2,h3,h4,h5,h6{
     margin-top: $spacing-unit;
     margin-bottom: $spacing-unit;

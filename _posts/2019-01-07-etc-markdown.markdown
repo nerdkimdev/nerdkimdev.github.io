@@ -252,7 +252,6 @@ local path 도 가능합니다
 ![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
 ![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "RubberDuck")
 
-<br>
 * * *
 
 ## 참고문서
