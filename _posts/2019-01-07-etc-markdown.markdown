@@ -5,13 +5,13 @@ date:   2019-01-08 22:50:00 +0900
 categories: etc
 ---
 
-##들어가는 글
+## 들어가는 글
 이 블로그의 글을 작성하거나 깃허브에서 마크다운 문서를 작성하기 위해 markdown 사용법을 정리해두려고합니다.
 
 
 <br>
 * * *
-##마크다운이란?
+## 마크다운이란?
 
 Markdown은 텍스트 기반의 마크업언어로 2004년 존그루버에 의해 만들어졌으며 쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능합니다.
 특수기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여 웹에서도 보다 빠르게 컨텐츠를 작성하고 보다 직관적으로 인식할 수 있습니다.
@@ -38,7 +38,7 @@ Markdown은 텍스트 기반의 마크업언어로 2004년 존그루버에 의�
 
 <br>
 * * *
-##마크다운의 사용법
+## 마크다운의 사용법
 
 
 
@@ -52,22 +52,22 @@ This is an h2
 ---
     this is an h2
     ---
-#this is an h1
-	##this is an h1
-##this is an h2
-	##this is an h2
-###this is an h3
-	###this is an h3
+# this is an h1
+	## this is an h1
+## this is an h2
+	## this is an h2
+### this is an h3
+	### this is an h3
 ####this is an h4
-	####this is an h4
-#####this is an h5
-	#####this is an h5
-######this is an h6
-	######this is an h6
+	#### this is an h4
+##### this is an h5
+	##### this is an h5
+###### this is an h6
+	###### this is an h6
 <br>
 
 
-###2.BlockQuote
+### 2.BlockQuote
 
 > This is a first blockqute.
 >	> This is a second blockqute.
@@ -93,7 +93,7 @@ This is an h2
 <br>
 
 
-##3.목록
+## 3.목록
 
 **순서있는 목록(번호)**
 
@@ -258,7 +258,7 @@ local path 도 가능합니다
 * * *
 
 
-##참고문서
+## 참고문서
 아래 마크다운 markdown 작성법 링크에서 대부분 가져와 제가 필요한 부분만 정리해놨습니다.
 
 [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601#file-gistfile1-md)
