@@ -523,6 +523,8 @@ pre {
 }
 .post-content {
   margin-bottom: $spacing-unit;
+  margin-top: webkit-calc($spacing-unit * 1.5);
+  margin-top: calc($spacing-unit * 1.5);
   padding-bottom: 3em !important;
   p {
     font-size: 1.0rem;
