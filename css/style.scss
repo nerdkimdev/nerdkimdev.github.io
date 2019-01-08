@@ -526,8 +526,7 @@ pre {
   padding-bottom: 3em !important;
 
   h1,h2,h3,h4,h5,h6{
-    margin-top: -webkit-calc(#{$spacing-unit} * 1.5);
-    margin-top: calc(#{$spacing-unit} * 1.5);
+    margin-top: $spacing-unit;
     margin-bottom: $spacing-unit;
   }
   p {
