@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "객체지향이란 무엇인가"
-date:   2019-01-08 09:00:00 +0900
+date:   2019-01-10 01:10:00 +0900
 categories: etc
 comments: true
 ---
