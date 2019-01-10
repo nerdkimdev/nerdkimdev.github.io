@@ -245,8 +245,8 @@ __double underscores__
 ~~cancelline~~
 
 ## 8. 이미지
-local path 도 가능합니다
-사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```를 이용한다.
+local path 도 가능합니다  
+사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```를 이용합니다.
 ```
 ![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
 ![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "RubberDuck")
