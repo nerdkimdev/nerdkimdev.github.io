@@ -3,6 +3,7 @@ layout: post
 title:  "190109_TIL"
 date:   2019-01-09 10:00:00 +0900
 categories: TIL
+comments: true
 ---
 
 ## 오늘 한 일
