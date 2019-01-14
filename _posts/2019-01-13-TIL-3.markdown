@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "190113_TIL"
-date:   2019-01-09 10:00:00 +0900
+date:   2019-01-013 10:00:00 +0900
 categories: TIL
 comments: true
 ---
