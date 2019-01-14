@@ -144,12 +144,12 @@ comments: true
 
 아래의 코드는 어린이가 자신이 무슨 장난감을 가지고 노는지 출력하는 코드이다.
 
-![장난감 다이어그램](kidDiagram.png)
+![장난감 다이어그램](../img/kidDiagram.png)
 
 ```
 public class Kid{
 	private Robot robot = new Robot();
-    
+
     public void play(){
     	System.out.println("i'm playing with " + robot.getName() + "!");
     }
@@ -157,7 +157,7 @@ public class Kid{
 
 public class Robot extends Toy{
 	private String name = "robot";
-    
+
     public void getName(){
     	return name;
     }
@@ -185,15 +185,15 @@ Toy추상클래스, MiniCar구상클래스, Lego 구상클래스는 있다고 �
 ```
 public class Kid{
 	private Toy toy;
-    
+
     public Kid(Toy toy){
     	this.toy = toy;
     }
-    
+
     public void setToy(Toy toy){
     	this.toy = toy;
     }
-    
+
     public void play(){
     	System.out.println("i'm playing with " + toy.getName() + "!");
     }
@@ -201,7 +201,7 @@ public class Kid{
 
 public class Robot extends Toy{
 	private String name = "robot";
-    
+
     public void getName(){
     	return name;
     }
@@ -209,7 +209,7 @@ public class Robot extends Toy{
 
 public class MiniCar extends Toy{
 	private String name = "miniCar";
-    
+
     public void getName(){
     	return name;
     }
