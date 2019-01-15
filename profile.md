@@ -4,15 +4,15 @@ title : profile
 permalink: /profile/
 ---
 
-## Profile
+# Profile
 
-이름 : 김영훈
+**이름** : 김영훈
 
-출생년도 : 1999
+**출생년도** : 1999
 
-꿈 : 개발자로서 한 명 이상에게 존경받는 것
+**꿈** : 개발자로서 한 명 이상에게 존경받는 것
 
-#### 할 수 있는 것
+### 할 수 있는 것
 
 C
 
@@ -38,7 +38,7 @@ Linux
 
 Amazon Web Service EC2 instance 이용
 
-#### 해왔던 것
+### 해왔던 것
 
 STAC(Smart Teen App Challenge) 예선 통과 (2017)
 
@@ -61,6 +61,6 @@ php HtmlToPdf 라이브러리를 이용해 서명이미지가 포함된 html을 
 
 큐브시스템 재직중(2018~)
 
-#### 연락처
+### 연락처
 
-email : **nerdkimdev@gmail.com**
+**email** : [nerdkimdev@gmail.com](https://github.com/nerdkimdev)
