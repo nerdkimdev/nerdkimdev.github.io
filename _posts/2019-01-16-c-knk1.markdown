@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "(번역)K.n.King C programming 1. Introducing C"
+date:   2019-01-14 06:30:00 +0900
+categories: etc
+comments: true
+---
+
+
+
+# Introducing C  
+# C 소개
+
+<span class="right">When someone says "I want a programming languae in which I need only say what I wish done," give him a lollipop<span>  
+<span class="right">누군가 "나는 내가 바라는 것만 말해도 되는 프로그래밍 언어를 원해" 라고 말한다면, 막대사탕이나 쥐어줘라<span>
